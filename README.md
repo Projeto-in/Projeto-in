@@ -17,9 +17,7 @@
 
 🎯Sou *Profissional de TI apaixonado por Tecnologia da Informação!* <br>Formado pela <strong>Faculdade UNICE em Analise de Desenvolvimento de Sistemas, e me Capacitando na Q.a Coders em Quality Assurance</strong>, com a Mentoria do Professor Willian.
 
-🎯Meu conjunto de habilidades inclui a garantia da Qualidade, Ferramentas de Teste, Automação Web, DevOps e uso de ferramentas como VSCode, Postman, Git, GitHub, Cypress, ferramentas Swagger, Conhecimento em Data Base: SQL Server, MongoDB e MySQL. 
-
-🎯Estou particularmente focado em Testes de Software.
+🎯https://github.com/Projeto-in?tab=repositories
 
 <div align="center"> 
   <img align="center" alt="Rafa-Js" height="250" width="250" src="https://media.tenor.com/D8IYs3OLCfkAAAAi/soy-nerd.gif" >
